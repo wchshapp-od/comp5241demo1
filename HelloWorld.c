@@ -1,5 +1,11 @@
 #include <stdio.h>
 
+void myprint(void);
+
 void main(void) {
-    printf("HelloWorld!\n");
+    myprint();
+}
+
+void myprint(void) {
+    printf("Hello World!\n");
 }
