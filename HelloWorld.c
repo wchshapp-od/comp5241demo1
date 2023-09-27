@@ -1,6 +1,6 @@
-void myprint(void);
+void myprint_mary(void);
 
 void main(void) {
-    myprint();
+    myprint_mary();
 }
 
