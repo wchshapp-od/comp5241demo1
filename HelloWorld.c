@@ -1,6 +1,6 @@
-void myprint_tom(void);
+void myprint_tm(void);
 
 void main(void) {
-    myprint_tom();
+    myprint_tm();
 }
 
