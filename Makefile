@@ -15,5 +15,5 @@ YourPrint.o: YourPrint.c
 	@echo "gcc -c YourPrint.c successfully."
 
 clean:
-    rm *.o
-    rm HelloWorld
+	rm *.o
+	rm HelloWorld
